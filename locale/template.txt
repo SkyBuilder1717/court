@@ -1,0 +1,10 @@
+# textdomain: court
+
+# CDB
+Court=
+Adds court items=
+
+# Items
+Gavel=
+Judge Coat=
+Gavel Block=

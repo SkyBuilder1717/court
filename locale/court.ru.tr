@@ -1,0 +1,10 @@
+# textdomain: court
+
+# CDB
+Court=Суд
+Adds court items=Добавляет предметы суда
+
+# Items
+Gavel=Молоток
+Judge Coat=Мантия Судьи
+Gavel Block=Блок Молотка
